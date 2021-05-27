@@ -11,19 +11,22 @@ While launching the target machine, an instance will be creating for converting 
        
      -  Navigate to the Compute Engine and select VM instance.
  
-     ![Alt text](https://github.com/Protontech-1803/Cloud2.0/blob/main/Migrating_GCP_VM_TO_AWS/jpeg/Picture1.png)
+      ![Alt text](https://github.com/Protontech-1803/Cloud2.0/blob/main/Migrating_GCP_VM_TO_AWS/jpeg/Picture1.png)
  
  
      -  Click Create Instance to create a instance.
-     ![Alt text](https://github.com/Protontech-1803/Cloud2.0/blob/main/Migrating_GCP_VM_TO_AWS/jpeg/Picture2.png)
+    
+      ![Alt text](https://github.com/Protontech-1803/Cloud2.0/blob/main/Migrating_GCP_VM_TO_AWS/jpeg/Picture2.png)
  
  
      -  Enter the name for VM, select the region and AZ and select the Machine type.
-     ![Alt text](https://github.com/Protontech-1803/Cloud2.0/blob/main/Migrating_GCP_VM_TO_AWS/jpeg/Picture3.png)
+     
+      ![Alt text](https://github.com/Protontech-1803/Cloud2.0/blob/main/Migrating_GCP_VM_TO_AWS/jpeg/Picture3.png)
  
  
       - Select the Image, firewall rules and click to create the VM.
-      - Note: Image type can be select any and firewall rules are not mandatory.
+         #### - Note: Image type can be select any and firewall rules are not mandatory.
+      
       ![Alt text](https://github.com/Protontech-1803/Cloud2.0/blob/main/Migrating_GCP_VM_TO_AWS/jpeg/Picture4.png)
  
  
@@ -82,7 +85,7 @@ While launching the target machine, an instance will be creating for converting 
         
       -  Let the other preference as default and click Save Replication Settings.
       
-      [Alt text](https://github.com/Protontech-1803/Cloud2.0/blob/main/Migrating_GCP_VM_TO_AWS/jpeg/Picture17.png)
+      ![Alt text](https://github.com/Protontech-1803/Cloud2.0/blob/main/Migrating_GCP_VM_TO_AWS/jpeg/Picture17.png)
         
       -  On Congratulation dialog box, click SHOW ME HOW.
       
@@ -118,6 +121,7 @@ While launching the target machine, an instance will be creating for converting 
       ![Alt text](https://github.com/Protontech-1803/Cloud2.0/blob/main/Migrating_GCP_VM_TO_AWS/jpeg/Picture25.png)
         
       -  In Windows Server Manager, Select Local Server, Select the IE Enhanced Security Configuration and turn it off.
+    
       ![Alt text](https://github.com/Protontech-1803/Cloud2.0/blob/main/Migrating_GCP_VM_TO_AWS/jpeg/Picture26.png)
         
       -  Open the browser and paste the given link to download Migration Agent in Windows VM and Click Save.
@@ -176,6 +180,7 @@ While launching the target machine, an instance will be creating for converting 
       ![Alt text](https://github.com/Protontech-1803/Cloud2.0/blob/main/Migrating_GCP_VM_TO_AWS/jpeg/Picture39.png)
       
       -  Navigate to the AWS EC2 console after finishing the job. Instance with the name of windows-server will be created.
-       ![Alt text](https://github.com/Protontech-1803/Cloud2.0/blob/main/Migrating_GCP_VM_TO_AWS/jpeg/Picture40.png)
+       
+      ![Alt text](https://github.com/Protontech-1803/Cloud2.0/blob/main/Migrating_GCP_VM_TO_AWS/jpeg/Picture40.png)
 
 
