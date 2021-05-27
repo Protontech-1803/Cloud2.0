@@ -10,6 +10,7 @@ While launching the target machine, an instance will be creating for converting 
      - Login to the GCP account using the credentials and select Project. 
        
      -  Navigate to the Compute Engine and select VM instance.
+ 
      ![Alt text](https://github.com/Protontech-1803/Cloud2.0/blob/main/Migrating_GCP_VM_TO_AWS/jpeg/1.png)
  
  
