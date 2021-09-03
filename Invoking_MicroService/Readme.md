@@ -11,11 +11,16 @@ Micro processes-based process application consists of multiple independent, doma
 
 4.	Define the Properties settings with the following options and click Create.
 
-    **Name:** The Deployed Micro Process
-    **Operation:** Select an operation to invoke from the drop-down list. 
+    **Name:** The Deployed Micro Process.
+    
+    **Operation:** Select an operation to invoke from the drop-down list.
+    
     **Callback Operation:** In case of asynchronous links, specify a callback operation.
+    
     **Type:** Specify if the micro process link is a synchronous or asynchronous invoke. A synchronous invoke halts the main process until the execution of the micro process element completes. An asynchronous invoke enables parallel execution of both micro process and main process. 
+    
     **Security Type:** Select APP Id - Basic Authentication to apply basic authentication to the micro process link. 
+    
     **KeyStore Credentials:** Complete the fields that is displayed. To create a new key, select New Key and enter a key name, user name, and password. 
 
      ![Alt text](https://github.com/Protontech-1803/Cloud2.0/blob/main/Invoking_MicroService/JPG_images/1.jpg) 
