@@ -1,6 +1,7 @@
 # Invoking Micro Process from a Dynamic Process in Oracle Process Cloud
 
-This POC shows how a Micro Process can be invoked from a Dynamic Main Process in Oracle Process Cloud. 
+**This POC shows how a Micro Process can be invoked from a Dynamic Main Process in Oracle Process Cloud.
+
 Micro processes-based process application consists of multiple independent, domain-driven processes. Micro process are typically smaller processes with quick execution time, with their output consumed in the main process. Micro Process can be invoked either synchronously or asynchronously. Within an application, create a link to a deployed micro process present in another application, and invoke this link in the main or parent process. The following steps illustrates how to create a Micro Process link in an Process Application and invoke them in a Dynamic Process.
 
 1.	Sign in to the Oracle Integration Cloud, navigate to Process Application and Create a Process Application. 
