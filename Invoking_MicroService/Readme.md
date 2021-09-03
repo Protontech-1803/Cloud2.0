@@ -18,7 +18,7 @@ Micro processes-based process application consists of multiple independent, doma
     Security Type: Select APP Id - Basic Authentication to apply basic authentication to the micro process link. 
     KeyStore Credentials: Complete the fields that is displayed. To create a new key, select New Key and enter a key name, user name, and password. 
 
-   ![Alt text](https://github.com/Protontech-1803/devops/blob/master/DockerContainer_JenkinsPipeline_using_GitHub/JPG_images/2.jpg) 
+     ![Alt text](https://github.com/Protontech-1803/Cloud2.0/blob/main/Invoking_MicroService/JPG_images/1.jpg) 
  
 5.	This will create a Micro Process link to the deployed process in the Process Application.
 
@@ -30,7 +30,7 @@ Micro processes-based process application consists of multiple independent, doma
 
 9.	Select the Micro Process Link that has to be invoked as part of the activities in the dynamic process.
 
-    ![Alt text](https://github.com/Protontech-1803/devops/blob/master/DockerContainer_JenkinsPipeline_using_GitHub/JPG_images/2.jpg)
+      ![Alt text](https://github.com/Protontech-1803/Cloud2.0/blob/main/Invoking_MicroService/JPG_images/2.jpg)
 
  
 
