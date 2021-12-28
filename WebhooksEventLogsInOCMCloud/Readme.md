@@ -2,7 +2,7 @@
 
 This POC illustrates how to create Webhooks in Oracle Content Management Cloud and list the Event Log with Object/ID, Event ID and Published Date and time for webhook activities. Webhooks are used to get the notifications automatically based on asset events in Oracle Content Management Cloud. Oracle Content Management provides incoming webhooks that is used to receive event notifications from external applications. Outgoing webhook endpoints are used for Push notifications of content publishing, content lifecycle, site publishing, and prerendering events.
 
-Following are the steps to create a webhook in Oracle Content Management Cloud:
+**Following are the steps to create a webhook in Oracle Content Management Cloud:**
 
 1.In Oracle Content Management Cloud, navigate to Integrations option under Administration menu option.
 
