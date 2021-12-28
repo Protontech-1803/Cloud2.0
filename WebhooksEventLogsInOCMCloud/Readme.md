@@ -8,6 +8,8 @@ Following are the steps to create a webhook in Oracle Content Management Cloud:
 
 2.	In Integrations page, choose the drop down Webhooks.
 
+   ![Alt text](https://github.com/Protontech-1803/Cloud2.0/blob/main/WebhooksEventLogsInOCMCloud/img/2.png)
+
  
 3.	Choose the type of webhook, for example – Asset Lifecyle Webhook, Asset Publishing Webhook, Site Publishing Webhook, etc.
 
@@ -15,8 +17,13 @@ Following are the steps to create a webhook in Oracle Content Management Cloud:
 
 5.	To list and verify the webhooks created, navigate to webhooks page under integrations.
 
+  ![Alt text](https://github.com/Protontech-1803/Cloud2.0/blob/main/WebhooksEventLogsInOCMCloud/img/5.png)
+
  
 6.	When the Webhook is enabled, the Event Log associated with webhook displays the details such as Object/ID, Event ID and Published date and time of the activities. To view the Event Log, navigate to the webhook created and click on Event Log page option.
+
+  ![Alt text](https://github.com/Protontech-1803/Cloud2.0/blob/main/WebhooksEventLogsInOCMCloud/img/6.png)
+
 
 
  
