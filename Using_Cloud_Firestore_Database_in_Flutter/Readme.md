@@ -16,7 +16,7 @@ Flutter is Google's UI toolkit for creating beautiful, natively built mobile, we
 
 4. **Add Firebase to Android app:** Provide application ID and SHA1 from flutter project and register app. Further download config file that is google-services.json file in App folder.
 
-5.	**Add Firebase Dependencies to Flutter Project:** Add Firebase SDK dependencies in build.gradle add the 
+5.	**Add Firebase Dependencies to Flutter Project:** Add Firebase SDK dependencies in build.gradle 
 
 6.	**Enable the Cloud Firestore database:** create database in test mode and enable cloud firestore location. Further create a collection.
 
